@@ -1,8 +1,8 @@
 {
-  "status": "stopped",
-  "notice": "欢迎使用",
+  "status": "stop",
+  "message": "软件维护中，暂时无法使用。",
   "min_version": "1.0",
-  "banned_hwids": [
+  "black_list": [
     "B4F3-5A1D-TEST-ID-001",
     "E5G2-8H9J-USER-ID-002"
   ]
