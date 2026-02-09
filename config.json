@@ -1,0 +1,9 @@
+{
+  "status": "active",
+  "notice": "欢迎使用本工具",
+  "min_version": "1.0",
+  "banned_hwids": [
+    "B4F3-5A1D-TEST-ID-001",
+    "E5G2-8H9J-USER-ID-002"
+  ]
+}
