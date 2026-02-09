@@ -1,5 +1,5 @@
 {
-  "status": "active",
+  "status": "stopped",
   "notice": "欢迎使用",
   "min_version": "1.0",
   "banned_hwids": [
